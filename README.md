@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Borja Bravo! 👋  
 
-<!--
-**boorjabraavo21/boorjabraavo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack | AI/LLM | Data Developer
+🚀 Passionate about technology 
 
-Here are some ideas to get you started:
+## 📌 About Me  
+- 🌱 Currently learning and working on LLMs in Python
+- 💬 Ask me about Angular, Python, and web development
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/borja-bravo-casermeiro-75a524292/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
